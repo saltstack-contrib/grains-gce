@@ -1,0 +1,4 @@
+tox
+pylint
+pep8
+pyflakes
